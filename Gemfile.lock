@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    beefcake (0.3.4.1)
+    beefcake-spanx (0.3.4.1)
 
 GEM
   remote: http://rubygems.org/
@@ -12,5 +12,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  beefcake!
+  beefcake-spanx!
   rake
